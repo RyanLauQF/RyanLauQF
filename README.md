@@ -1,4 +1,4 @@
-## Looks like you've stumbled across my Github! :eyes:
+# Looks like you've stumbled across my Github! :eyes:
 
 ### 👋 Hi! I'm `Ryan Lau`
 
