@@ -1,16 +1,38 @@
-### Hi there 👋
+## Looks like you've stumbled across my Github! :eyes:
 
-<!--
-**RyanLauQF/RyanLauQF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi! I'm `Ryan Lau`
 
-Here are some ideas to get you started:
+```python
+class Undergraduate:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Ryan Lau"
+        self.university = "Nanyang Technological University"
+        self.hobbies = ["playing guitar", "basketball"]
+    
+    def my_usual_day(self):
+        activities = ("wake up", "study", "code", "jam sessions", "sleep")
+        
+        happiness = 0
+        for things in activities:
+            happiness += 20
+          
+me = Undergraduate()
+me.my_usual_day()
+print("Nice to meet you! :-)")
+```
+### 👨‍💻 I create with...
+          
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+### 🛠️ My Projects
+* [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - An object oriented chess engine created from scratch!
