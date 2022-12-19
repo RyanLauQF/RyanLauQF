@@ -36,3 +36,4 @@ print("Nice to meet you! :-)")
 
 ### 🛠️ My Projects
 * [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - An object oriented chess engine created from scratch!
+* [SET Telegram Bot](https://github.com/RyanLauQF/set-with-friends-bot) - A bot that plays the online multiplayer card game _SET_ through Selenium!
