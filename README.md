@@ -35,5 +35,6 @@ print("Nice to meet you! :-)")
 <br />
 
 ### 🛠️ My Projects
+* [BloomBERT](https://github.com/RyanLauQF/BloomBERT) - A Transformer-based NLP model for Task Complexity classification!
 * [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - An object oriented chess engine created from scratch!
 * [SET Telegram Bot](https://github.com/RyanLauQF/set-with-friends-bot) - A bot that plays the online multiplayer card game _SET_ through Selenium!
