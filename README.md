@@ -21,18 +21,15 @@ me = Undergraduate()
 me.my_usual_day()
 print("Nice to meet you! :-)")
 ```
-### 👨‍💻 I create with...
-          
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+### 👨‍💻 I create with...
+|   Skills    |                                                  Technologies                                                   |
+|:-----------:|:---------------------------------------------------------------------------------------------------------------:|
+| `Languages` |                   <img width="120px" src="https://skillicons.dev/icons?i=java,python,cpp" />                    |
+| `Frontend`  |                       <img width="80px" src="https://skillicons.dev/icons?i=html,css" />                        |
+|  `Backend`  | <img width="280px" src="https://skillicons.dev/icons?i=git,github,sqlite,docker,fastapi,tensorflow,selenium" /> |
+|   `Cloud`   |                      <img width="80px" src="https://skillicons.dev/icons?i=gcp,heroku" />                       |
+
 
 ### 🛠️ My Projects
 * [BloomBERT](https://github.com/RyanLauQF/BloomBERT) - A Transformer-based NLP model for Task Complexity classification!
