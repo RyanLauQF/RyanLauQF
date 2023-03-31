@@ -33,6 +33,6 @@ print("Nice to meet you! :-)")
 
 ### 🛠️ My Projects
 * [BloomBERT](https://github.com/RyanLauQF/BloomBERT) - A Transformer-based NLP model for Task Complexity classification using Blooms Taxonomy!
-* [Lifeline](https://github.com/ackselz/Lifeline) - Flutter full-stack mobile application with real-time crowdsourcing of community first aid responders and educational content!
+* [Lifeline](https://github.com/ackselz/Lifeline) - Flutter full-stack mobile application with real-time first aid responder crowdsourcing and educational content!
 * [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - An Object Oriented Java chess engine playing at 2000 Elo on Lichess!
 * [SET Telegram Bot](https://github.com/RyanLauQF/set-with-friends-bot) - A bot that plays the online multiplayer card game _SET_ through Selenium!
