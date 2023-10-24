@@ -25,7 +25,7 @@ print("Nice to meet you! :-)")
 ### 👨‍💻 I create with...
 |   Skills    |                                                       Technologies                                                       |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------:|
-| `Languages` |                     <img width="200px" src="https://skillicons.dev/icons?i=java,python,c,cpp,js,dart" />                 |
+| `Languages` |                     <img width="240px" src="https://skillicons.dev/icons?i=java,python,c,cpp,js,dart" />                 |
 | `Frontend`  |                       <img width="160px" src="https://skillicons.dev/icons?i=react,flutter,html,css" />                  |
 |  `Backend`  | <img width="280px" src="https://skillicons.dev/icons?i=git,github,docker,fastapi,selenium,firebase,sqlite" />            |
 |  `AI / ML`  |                           <img width="80px" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />                   |
