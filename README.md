@@ -25,19 +25,19 @@ print("Nice to meet you! :-)")
 ### 👨‍💻 I create with...
 |   Skills    |                                                       Technologies                                                       |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------:|
-| `Languages` |                     <img width="280px" src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,dart" />              |
-| `Frontend`  |                  <img width="200px" src="https://skillicons.dev/icons?i=nextjs,react,materialui,tailwind,flutter" />     |
-|  `Backend`  |        <img width="240px" src="https://skillicons.dev/icons?i=git,docker,fastapi,firebase,mysql,selenium" />             |
+| `Languages` |                     <img width="240px" src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,dart" />                |
+| `Frontend`  |            <img width="240px" src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,flutter" />     |
+|  `Backend`  |        <img width="280px" src="https://skillicons.dev/icons?i=git,docker,flask,fastapi,firebase,mysql,postgres" />       |
 |  `AI / ML`  |                           <img width="80px" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />                   |
 |   `Cloud`   |                           <img width="120px" src="https://skillicons.dev/icons?i=azure,gcp,heroku" />                    |
 
 
 ### 🛠️ My Projects
-* [BloomBERT](https://github.com/RyanLauQF/BloomBERT) - A Transformer-based NLP model for Task Complexity classification using Blooms Taxonomy!
-* [Lifeline](https://github.com/ackselz/Lifeline) - Flutter full-stack mobile application with real-time first aid responder crowdsourcing and educational content!
-* [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - An Object Oriented Java chess engine playing at 2000 Elo on Lichess!
-* [SET Telegram Bot](https://github.com/RyanLauQF/set-with-friends-bot) - A bot that plays the online multiplayer card game _SET_ through Selenium!
+* [BloomBERT](https://github.com/RyanLauQF/BloomBERT) - A Transformer-based NLP model for Task Complexity classification using Blooms Taxonomy
+* [Lifeline](https://github.com/ackselz/Lifeline) - Flutter full-stack mobile application with real-time first aid responder crowdsourcing and educational content
+* [BLANK Chess Engine](https://github.com/RyanLauQF/BLANK-Chess) - A Java chess engine playing at 2000 Elo on Lichess
+* [SET Telegram Bot](https://github.com/RyanLauQF/set-with-friends-bot) - A bot that plays the online multiplayer card game _SET_ through Selenium
 
-### 🏆 Competitions
+### 🏆 Hacks
 * [RentSG](https://github.com/RyanLauQF/RentSG) - Mobile-first web application streamlining home rentals! (1st Runner Up, HTX x Microsoft, HacX! 2023)
 * [Voyage](https://github.com/ackselz/voyage) - AI-enhanced career development platform! (1st Runner Up, PSA Singapore, Code Sprint 2023)
